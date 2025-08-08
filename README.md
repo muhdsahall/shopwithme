@@ -36,7 +36,13 @@ npm start
 Backend
 python app.py
 
-Project Documentation For Software: Screenshots WhatsApp Image 2025-08-09 at 4 42 18 AM WhatsApp Image 2025-08-09 at 4 42 59 AM WhatsApp Image 2025-08-09 at 4 43 28 AM
+Project Documentation For Software: 
+![WhatsApp Image 2025-08-09 at 4 43 28 AM](https://github.com/user-attachments/assets/6a6834cf-f40e-4f82-a5ff-f029c2a1be0f)
+![WhatsApp Image 2025-08-09 at 4 42 18 AM](https://github.com/user-attachments/assets/a45490ce-0c42-410e-bb51-38ba679a2976)
+![WhatsApp Image 2025-08-09 at 4 43 28 AM](https://github.com/user-attachments/assets/a841a64f-a256-4db0-9a42-d38a1cb735fb)
+
+
+
 
 Diagrams The flow: Webcam/Mic → Emotion Detection → Flask API → React UI → Product Recommendations
 
