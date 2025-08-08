@@ -52,3 +52,26 @@ python app.py
 Project Documentation
 For Software:
 Screenshots
+![WhatsApp Image 2025-08-09 at 4 42 18 AM](https://github.com/user-attachments/assets/b8a6eb5c-a5fd-42e1-bc3c-a686bcc1e18e)
+![WhatsApp Image 2025-08-09 at 4 42 59 AM](https://github.com/user-attachments/assets/fea59b07-f026-4878-b76c-ee03e22324d8)
+![WhatsApp Image 2025-08-09 at 4 43 28 AM](https://github.com/user-attachments/assets/a55777c9-60ff-4235-8cc8-11f4d71eae68)
+
+Diagrams
+The flow: Webcam/Mic → Emotion Detection → Flask API → React UI → Product Recommendations
+
+For Hardware:
+(N/A – unless you count your face as hardware)
+
+Project Demo
+Video
+[Add your demo video link here]
+The demo walks through live mood detection, product recommendation updates, and the overall user experience.
+
+Additional Demos
+
+Optional:
+
+Team Contributions
+Pranav Krishnan Punnakkuzhi: Frontend development, UI/UX design, integrated face-api.js with React,Project documentation
+Muhammed sahal : Backend Flask API, simulated emotion detection logic, product recommendation engine, testing, emotion-to-product mapping logic
+ 
