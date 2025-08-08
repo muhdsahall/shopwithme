@@ -48,9 +48,15 @@ Diagrams The flow: Webcam/Mic → Emotion Detection → Flask API → React UI �
 
 For Hardware: (N/A – unless you count your face as hardware)
 
-Project Demo Video [Add your demo video link here] The demo walks through live mood detection, product recommendation updates, and the overall user experience.
+Project Demo Video
+
+https://github.com/user-attachments/assets/699089bb-3c39-4f7a-b28c-123fd69137cb
+
+
 
 Additional Demos
+https://github.com/user-attachments/assets/699089bb-3c39-4f7a-b28c-123fd69137cb
+
 
 Optional:
 
