@@ -1,0 +1,9 @@
+flask
+deepface==0.0.83
+tensorflow==2.11.0
+transformers
+torch
+librosa
+soundfile
+numpy
+scikit-learn
